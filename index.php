@@ -7,6 +7,7 @@
     <title>Employe App</title>
 </head>
 <body>
+    
    <table class="table">
         <tr>
             <td>Employe Name</td>
