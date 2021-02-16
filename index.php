@@ -7,7 +7,9 @@
     <title>Employe App</title>
 </head>
 <body>
-    
+<div class="container">
+    <div class="row">
+        <div class="col-12 col-sm-6 col-md-6">
    <table class="table">
         <tr>
             <td>Employe Name</td>
@@ -46,5 +48,6 @@
             <td><button class="btn btn-info">Submit</button></td>
         </tr>
     </table>
+</div>
 </body>
 </html>
